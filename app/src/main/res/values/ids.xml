@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="setthem_light_menu_item" type="id" />
+    <item name="setthem_dark_menu_item" type="id" />
+    <item name="about_menu_item" type="id" />
+</resources>
